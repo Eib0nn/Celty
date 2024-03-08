@@ -1,2 +1,2 @@
 # Celty
-Encryptor in C/Assembly
+trying to implement encryption in C/assembly
